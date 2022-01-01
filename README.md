@@ -1,0 +1,2 @@
+# green_energy_integrated_smart_grid
+The effective deployment of smart grid technologies enables the integration of renewable energy,  the reduction of CO2 emissions, and the management of electricity consumption. It is now  possible to meet demand needs with the help of smart grid. Furthermore, smart grid offers  efficiency-driven reaction and dependability which will be deeply explored in this report
